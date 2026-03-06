@@ -330,7 +330,7 @@ export default function ClearCare() {
       {/* FOOTER */}
       <footer style={{ padding: "32px 48px", borderTop: "1px solid #1A1A1A", background: "#0A0A0A", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
         <div style={{ fontFamily: "'Cormorant Garamond', serif", fontSize: 18, color: "#fff" }}>ClearCare</div>
-        <div style={{ fontFamily: "'DM Sans', sans-serif", fontSize: 11, color: "#444", letterSpacing: "0.05em" }}>© 2025 ClearCare. Transparent healthcare for every American.</div>
+        <div style={{ fontFamily: "'DM Sans', sans-serif", fontSize: 11, color: "#444", letterSpacing: "0.05em" }}>© 2026 ClearCare · Built by Vaishali Kundu · clearcarehealth.org</div>
       </footer>
     </div>
   );
